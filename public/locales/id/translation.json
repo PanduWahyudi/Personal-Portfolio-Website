@@ -1,0 +1,24 @@
+{
+    "navbar": {
+      "about": "Tentang",
+      "skills": "Alat & Keahlian", 
+      "project": "Proyek",
+      "contact": "Kontak"
+    },
+    "home": {
+      "title": "Hi, Saya Pandu Wahyudi,",
+      "title1": " Web Developer",
+      "description": "Saya seorang pengembang web yang antusias dan selalu mencari pengalaman baru. Setiap proyek adalah peluang untuk belajar, berkembang, dan menciptakan solusi yang fungsional dan menyenangkan untuk digunakan.",
+      "downloadResume": "Unduh Resume",
+      "skills": {
+        "title": "Alat & Keahlian",
+        "description": "Saya mengkhususkan diri dalam penggunaan alat dan teknologi modern untuk membangun aplikasi web yang efisien dan berkualitas tinggi. Dengan pengalaman dalam berbagai proyek, saya menciptakan solusi yang responsif, andal, dan berfokus pada pengguna, mulai dari antarmuka yang intuitif hingga backend yang kuat, memastikan kinerja optimal dan integrasi yang lancar."
+      },
+      "contact": {
+        "title": "Mari",
+        "title1": "Berkolaborasi!",
+        "description": "Berbasis di Indonesia, Saya siap bekerja sama dengan Anda dalam bahasa Indonesia dan Inggris. Apakah Anda memiliki ide bagus yang ingin Anda wujudkan? Mari kita mulai kolaborasi kita!",
+        "emailMe": "Kirim Email"
+      }
+    }
+  }

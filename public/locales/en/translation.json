@@ -1,0 +1,27 @@
+{
+    "navbar": {
+      "about": "About",
+      "skills": "Tools & Skills", 
+      "project": "Project",
+      "contact": "Contact"
+    },
+    "home": {
+      "title": "Hi, I am Pandu Wahyudi,",
+      "title1": "Web Developer",
+      "description": "I'm an enthusiastic web developer always looking for new experiences. Each project is an opportunity to learn, grow, and create solutions that are both functional and enjoyable to use.",
+      "downloadResume": "Download resume",
+      "skills": {
+        "title": "Tools & Skills",
+        "description": "I specialize in using modern tools and technologies to buildefficient, high-quality web applications. With experience invarious projects, I create responsive, reliable, and user focusedsolutions, from intuitive interfaces to robust backends, ensuringoptimal performance and seamless integration."
+      },
+      "contact": {
+        "title": "Lets",
+        "title1": "Collaborate!",
+        "description": "Based in Indonesia, I am ready to work with you in both Indonesian and English. Do you have a great idea you'd like to bring to life? Let's start our collaboration!",
+        "emailMe": "Email Me"
+      }
+    }
+  }
+
+  
+  
