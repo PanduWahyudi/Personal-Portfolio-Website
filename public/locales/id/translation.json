@@ -19,6 +19,17 @@
         "title1": "Berkolaborasi!",
         "description": "Berbasis di Indonesia, Saya siap bekerja sama dengan Anda dalam bahasa Indonesia dan Inggris. Apakah Anda memiliki ide bagus yang ingin Anda wujudkan? Mari kita mulai kolaborasi kita!",
         "emailMe": "Kirim Email"
+      }, 
+      "experience" : {
+        "title1":"Sistem Informasi Poliklinik Itera",
+        "description1":"Sistem informasi berbasis web yang dirancang untuk meningkatkan pelayanan kesehatan di Poliklinik Itera. Dibangun menggunakan Laravel dan Tailwind CSS, sistem ini mencakup fitur untuk mengelola pasien, rekam medis, dan pengobatan. Saya bekerja sebagai fullstack developer, menangani seluruh proses pengembangan sistem.",
+        "title2": "Website Bimbel Griselda",
+        "description2": "Sebuah platform yang mengintegrasikan halaman landing promosi dengan sistem admin untuk manajemen konten. Dibangun menggunakan React dan NestJS, saya berkontribusi sebagai front-end developer dengan fokus pada implementasi desain UI responsif dan memastikan pengalaman pengguna yang optimal.",
+        "title3": "POS Yang's Grosir",
+        "description3": "Sistem point-of-sale berbasis web yang dirancang untuk mempermudah operasi kasir di Yang's Grosir. Dibangun menggunakan Next.js dan NestJS, saya berperan sebagai front-end developer, bertanggung jawab dalam implementasi desain UI dan integrasi API untuk menghubungkan berbagai fitur dengan backend.",
+        "title4": "Sistem Informasi Perhitungan Anggaran Perbaikan Jalan untuk Provinsi Lampung",
+        "description4": "Sistem berbasis web yang mendukung Dinas Pekerjaan Umum dan Bina Marga Provinsi Lampung (BMBK) dalam menghitung anggaran perbaikan jalan secara akurat dan efisien. Dikembangkan menggunakan Laravel dan Bootstrap, sistem ini menyediakan antarmuka yang ramah pengguna dan fitur perhitungan otomatis. Sebagai fullstack developer, saya bertanggung jawab untuk merancang UI, mengembangkan modul utama, dan memastikan sistem memenuhi kebutuhan pengguna."
+    
       }
     }
   }

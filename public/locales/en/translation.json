@@ -19,6 +19,16 @@
         "title1": "Collaborate!",
         "description": "Based in Indonesia, I am ready to work with you in both Indonesian and English. Do you have a great idea you'd like to bring to life? Let's start our collaboration!",
         "emailMe": "Email Me"
+      },
+      "experience" : {
+        "title1":"Itera Polyclinic Information System",
+        "description1":"A web-based information system designed to improve healthcare services at Itera Polyclinic. Built using Laravel and Tailwind CSS, this system includes features for managing patients, medical records, and medications. I worked as a fullstack developer, handling the entire development process.",
+        "title2":"Griselda Tutoring Website",
+        "description2":"A platform that integrates a promotional landing page with an admin system for content management. Developed with React and NestJS, I contributed as a front-end developer, focusing on implementing responsive UI designs and ensuring optimal user experiences.",
+        "title3":"Pos Yang's Grosir",
+        "description3":"A web-based point-of-sale system designed to streamline cashier operations at Yang's Grosir. Built with Next.js and NestJS, I worked as a front-end developer, responsible for implementing UI designs and integrating APIs to connect various features with the backend.",
+        "title4":"Road Repair Budget Calculation Information System for Lampung Province",
+        "description4":"A web-based system that supports the Lampung Province Public Works and Highways Department (BMBK) in accurately and efficiently calculating road repair budgets. Developed using Laravel and Bootstrap, this system provides a user-friendly interface and automated calculation features. As a fullstack developer, I was responsible for designing the UI, developing key modules, and ensuring the system met user requirements."
       }
     }
   }

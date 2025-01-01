@@ -1,9 +1,7 @@
 import { useEffect } from "react";
 import Navbar from "./components/Navbar";
 import ScrollToTopButton from "./components/ScrollTopButton";
-import EducationCard from "./components/EducationCard";
 import ExperiencesCard from "./components/ExperiencesCard";
-import EmailIcon from "./components/icons/EmailIcon";
 import InstagramIcon from "./components/icons/InstagramIcon";
 import LinkedinIcon from "./components/icons/LinkedinIcon";
 import SendIcon from "./components/icons/SendIcon";
@@ -124,42 +122,40 @@ export default function App() {
               Project
             </h3>
             <div className="grid grid-cols-1 gap-3 md:grid-cols-1 md:gap-10">
-              <div data-aos="fade-right" data-aos-duration="3000">
+              <div data-aos="fade-up" data-aos-duration="3000">
                 <ExperiencesCard
                   src="/img/experience.png"
-                  title="Itera Polyclinic Information System"
+                  title={t("home.experience.title1")}
                   duration="2024"
                   role="Fullstack Developer"
-                  description="A web-based information system designed to improve healthcare services at Itera Polyclinic. Built using Laravel and Tailwind CSS, this system includes features for managing patients, medical records, and medications. I worked as a fullstack developer, handling the entire development process.
-                  "
+                  description={t("home.experience.description1")}
                 />
               </div>
-              <div data-aos="fade-right" data-aos-duration="3000">
+              <div data-aos="fade-up" data-aos-duration="3000">
                 <ExperiencesCard
                   src="/img/experience2.png"
-                  title="Griselda Tutoring Website"
+                  title={t("home.experience.title2")}
                   duration="2024"
                   role="Front-End Developer"
-                  description="A platform that integrates a promotional landing page with an admin system for content management. Developed with React and NestJS, I contributed as a front-end developer, focusing on implementing responsive UI designs and ensuring optimal user experiences.
-                  "
+                  description={t("home.experience.description2")}
                 />
               </div>
-              <div data-aos="fade-right" data-aos-duration="3000">
+              <div data-aos="fade-up" data-aos-duration="3000">
                 <ExperiencesCard
                   src="/img/experience3.png"
-                  title="Pos Yang's Grosir"
+                  title={t("home.experience.title3")}
                   duration="2023"
                   role="Front-End Developer"
-                  description="A web-based point-of-sale system designed to streamline cashier operations at Yang's Grosir. Built with Next.js and NestJS, I worked as a front-end developer, responsible for implementing UI designs and integrating APIs to connect various features with the backend."
+                  description={t("home.experience.description3")}
                 />
               </div>
-              <div data-aos="fade-right" data-aos-duration="3000">
+              <div data-aos="fade-up" data-aos-duration="3000">
                 <ExperiencesCard
                   src="/img/experience4.png"
-                  title="Road Repair Budget Calculation Information System for Lampung Province"
+                  title={t("home.experience.title4")}
                   duration="2023"
                   role="Fullstack Developer"
-                  description="A web-based system that supports the Lampung Province Public Works and Highways Department (BMBK) in accurately and efficiently calculating road repair budgets. Developed using Laravel and Bootstrap, this system provides a user-friendly interface and automated calculation features. As a fullstack developer, I was responsible for designing the UI, developing key modules, and ensuring the system met user requirements."
+                  description={t("home.experience.description4")}
                 />
               </div>
             </div>
